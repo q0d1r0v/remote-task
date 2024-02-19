@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@iconify/vue": "^4.1.1",
     "sass": "^1.71.0",
     "vue": "^3.4.15"
   },
